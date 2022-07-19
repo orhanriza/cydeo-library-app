@@ -1,0 +1,1 @@
+Feature: starting a new search
